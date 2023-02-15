@@ -25,7 +25,7 @@ require (
 	github.com/gofrs/uuid v3.3.0+incompatible // indirect
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/gorilla/handlers v1.4.2 // indirect
 	github.com/hashicorp/go-version v1.3.0 // indirect
 	github.com/hyperledger/fabric v2.1.1+incompatible
@@ -47,10 +47,10 @@ require (
 	github.com/opencontainers/runc v1.0.0-rc10 // indirect
 	github.com/operator-framework/operator-lib v0.1.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.5.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rogpeppe/go-internal v1.5.0 // indirect
 	github.com/sethvargo/go-password v0.2.0
-	github.com/sirupsen/logrus v1.5.0
+	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v1.0.0
 	github.com/sykesm/zap-logfmt v0.0.4 // indirect
 	github.com/yvasiyarov/go-metrics v0.0.0-20150112132944-c25f46c4b940 // indirect
